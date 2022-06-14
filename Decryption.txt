@@ -1,0 +1,23 @@
+Cipher text: 778a5ce542cecf9a553be9192a96fa0e
+Key: 000100000010100101011000111100010110001110100010010011001100
+
+Decryption Steps: 
+                    Left    Right    Round Key 
+STEP 0--> Round 1 6456def2 5ada00c1 2121ae8902c9
+STEP 1--> Round 2 5ada00c1 49753f18 cd268885b814
+STEP 2--> Round 3 49753f18 53a88faa 9b2c3110097a
+STEP 3--> Round 4 53a88faa f0372cc9 0629a1775a20
+STEP 4--> Round 5 f0372cc9 da1521b7 25491c88323b
+STEP 5--> Round 6 da1521b7 75a0567d 08405fe01d88
+STEP 6--> Round 7 75a0567d f316c596 3a914852e02c
+STEP 7--> Round 8 f316c596 6cba178c 7e5282485341
+STEP 8--> Round 9 6cba178c 8eaea453 a0431b053666
+STEP 9--> Round 10 8eaea453 5a8485bd 88c16ea4911a
+STEP 10--> Round 11 5a8485bd add6208d 6ad06073284a
+STEP 11--> Round 12 add6208d 93e440d9 561646646231
+STEP 12--> Round 13 93e440d9 a2dcdfbd 84b694983982
+STEP 13--> Round 14 a2dcdfbd ce3fdb5d d12a3032072c
+STEP 14--> Round 15 ce3fdb5d 001f02e8 b00ca1d2f201
+STEP 15--> Round 16 1e0814f4 001f02e8 52968c6126f0
+
+Decrypted message: hii i am here

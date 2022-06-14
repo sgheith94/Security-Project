@@ -1,0 +1,9 @@
+Encoded Plain text: Hi oamr
+Key: ['e0d660c75682e197ff0de228045b722b']
+ECB result: [b'Hi oamr\t\t\t\t\t\t\t\t\t']
+
+Encryption Steps: Ten Keys of Each Block 
+
+
+Encryption for each block: 
+Block 0: b'Hi oamr\t\t\t\t\t\t\t\t\t' --> [['0x15', '0x1', '0x6f', '0x30'], ['0x7', '0xda', '0xfe', '0x9c'], ['0xd0', '0xa7', '0x98', '0xf3'], ['0x1c', '0x12', '0x15', '0x79']]
